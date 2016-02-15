@@ -1,14 +1,14 @@
-package com.jpmorgan.impl.pojo;
+package com.stock.impl.pojo;
 
 import java.util.Date;
-import com.jpmorgan.shared.pojo.Trade;
-import com.jpmorgan.shared.pojo.Stock;
-import com.jpmorgan.shared.pojo.BuyOrSellEnum;
+import com.stock.shared.pojo.Trade;
+import com.stock.shared.pojo.Stock;
+import com.stock.shared.pojo.BuyOrSellEnum;
 
 /**
  * Class representing a trade.
  * @author AN
- * @see com.jpmorgan.shared.pojo.Trade
+ * @see com.stock.shared.pojo.Trade
  */
 public class TradeImpl implements Trade {
 

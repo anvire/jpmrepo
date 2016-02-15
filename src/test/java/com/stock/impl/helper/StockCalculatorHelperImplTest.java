@@ -1,8 +1,7 @@
-package com.jpmorgan.impl.helper;
+package com.stock.impl.helper;
 
-import com.jpmorgan.shared.helper.StockCalculatorHelper;
-import com.jpmorgan.shared.helper.StockCalculatorException;
-import com.jpmorgan.impl.helper.StockCalculatorHelperImpl;
+import com.stock.shared.helper.StockCalculatorHelper;
+import com.stock.shared.helper.StockCalculatorException;
 import org.junit.Test;
 import org.junit.Assert;
 

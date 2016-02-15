@@ -1,4 +1,4 @@
-package com.jpmorgan;
+package com.stock;
 
 import java.lang.StringBuffer;
 import java.util.Formatter;
@@ -8,17 +8,17 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Date;
 import java.util.ArrayList;
-import com.jpmorgan.shared.pojo.Stock;
-import com.jpmorgan.shared.pojo.Trade;
-import com.jpmorgan.shared.pojo.StockTypeEnum;
-import com.jpmorgan.shared.pojo.BuyOrSellEnum;
-import com.jpmorgan.shared.service.StockCalculatorService;
-import com.jpmorgan.shared.helper.StockCalculatorHelper;
-import com.jpmorgan.shared.helper.StockCalculatorException;
-import com.jpmorgan.impl.pojo.TradeImpl;
-import com.jpmorgan.impl.pojo.StockImpl;
-import com.jpmorgan.impl.service.StockCalculatorServiceImpl;
-import com.jpmorgan.impl.helper.StockCalculatorHelperImpl;
+import com.stock.shared.pojo.Stock;
+import com.stock.shared.pojo.Trade;
+import com.stock.shared.pojo.StockTypeEnum;
+import com.stock.shared.pojo.BuyOrSellEnum;
+import com.stock.shared.service.StockCalculatorService;
+import com.stock.shared.helper.StockCalculatorHelper;
+import com.stock.shared.helper.StockCalculatorException;
+import com.stock.impl.pojo.TradeImpl;
+import com.stock.impl.pojo.StockImpl;
+import com.stock.impl.service.StockCalculatorServiceImpl;
+import com.stock.impl.helper.StockCalculatorHelperImpl;
 
 /**
  * Main class of search.co.uk Java code test

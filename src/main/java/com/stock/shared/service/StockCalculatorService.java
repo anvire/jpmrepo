@@ -1,9 +1,9 @@
-package com.jpmorgan.shared.service;
+package com.stock.shared.service;
 
 import java.util.List;
-import com.jpmorgan.shared.pojo.Trade;
-import com.jpmorgan.shared.pojo.Stock;
-import com.jpmorgan.shared.helper.StockCalculatorException;
+import com.stock.shared.pojo.Trade;
+import com.stock.shared.pojo.Stock;
+import com.stock.shared.helper.StockCalculatorException;
 
 /**
  * Interface of stock calculation services.

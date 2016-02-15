@@ -1,4 +1,4 @@
-package com.jpmorgan.shared.pojo;
+package com.stock.shared.pojo;
 
 /**
  * Enumeration of stock types.

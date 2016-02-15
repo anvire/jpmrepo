@@ -1,13 +1,12 @@
-package com.jpmorgan.impl.service;
+package com.stock.impl.service;
 
 import java.util.List;
-import com.jpmorgan.shared.pojo.Trade;
-import com.jpmorgan.shared.pojo.Stock;
-import com.jpmorgan.shared.helper.StockCalculatorException;
-import com.jpmorgan.shared.service.StockCalculatorService;
-import com.jpmorgan.shared.helper.StockCalculatorHelper;
-import com.jpmorgan.impl.service.StockCalculatorServiceImpl;
-import com.jpmorgan.impl.helper.StockCalculatorHelperImpl;
+import com.stock.shared.pojo.Trade;
+import com.stock.shared.pojo.Stock;
+import com.stock.shared.helper.StockCalculatorException;
+import com.stock.shared.service.StockCalculatorService;
+import com.stock.shared.helper.StockCalculatorHelper;
+import com.stock.impl.helper.StockCalculatorHelperImpl;
 
 /**
  * Class of stock calculation service.

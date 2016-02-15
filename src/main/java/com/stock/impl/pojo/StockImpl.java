@@ -1,12 +1,12 @@
-package com.jpmorgan.impl.pojo;
+package com.stock.impl.pojo;
 
-import com.jpmorgan.shared.pojo.Stock;
-import com.jpmorgan.shared.pojo.StockTypeEnum;
+import com.stock.shared.pojo.Stock;
+import com.stock.shared.pojo.StockTypeEnum;
 
 /**
  * Class representing a stock.
  * @author AN
- * @see com.jpmorgan.shared.pojo.Stock
+ * @see com.stock.shared.pojo.Stock
  */
 public class StockImpl implements Stock {
 

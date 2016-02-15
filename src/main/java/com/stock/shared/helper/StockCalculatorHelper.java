@@ -1,4 +1,4 @@
-package com.jpmorgan.shared.helper;
+package com.stock.shared.helper;
 
 /**
  * Interface of stock calculation helpers.
